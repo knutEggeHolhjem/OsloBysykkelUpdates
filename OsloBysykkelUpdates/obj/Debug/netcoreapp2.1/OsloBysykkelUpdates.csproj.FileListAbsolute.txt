@@ -1,0 +1,11 @@
+C:\Users\knut9\source\repos\OsloBysykkelUpdates\OsloBysykkelUpdates\bin\Debug\netcoreapp2.1\OsloBysykkelUpdates.deps.json
+C:\Users\knut9\source\repos\OsloBysykkelUpdates\OsloBysykkelUpdates\bin\Debug\netcoreapp2.1\OsloBysykkelUpdates.runtimeconfig.json
+C:\Users\knut9\source\repos\OsloBysykkelUpdates\OsloBysykkelUpdates\bin\Debug\netcoreapp2.1\OsloBysykkelUpdates.runtimeconfig.dev.json
+C:\Users\knut9\source\repos\OsloBysykkelUpdates\OsloBysykkelUpdates\bin\Debug\netcoreapp2.1\OsloBysykkelUpdates.dll
+C:\Users\knut9\source\repos\OsloBysykkelUpdates\OsloBysykkelUpdates\bin\Debug\netcoreapp2.1\OsloBysykkelUpdates.pdb
+C:\Users\knut9\source\repos\OsloBysykkelUpdates\OsloBysykkelUpdates\obj\Debug\netcoreapp2.1\OsloBysykkelUpdates.csprojAssemblyReference.cache
+C:\Users\knut9\source\repos\OsloBysykkelUpdates\OsloBysykkelUpdates\obj\Debug\netcoreapp2.1\OsloBysykkelUpdates.csproj.CoreCompileInputs.cache
+C:\Users\knut9\source\repos\OsloBysykkelUpdates\OsloBysykkelUpdates\obj\Debug\netcoreapp2.1\OsloBysykkelUpdates.AssemblyInfoInputs.cache
+C:\Users\knut9\source\repos\OsloBysykkelUpdates\OsloBysykkelUpdates\obj\Debug\netcoreapp2.1\OsloBysykkelUpdates.AssemblyInfo.cs
+C:\Users\knut9\source\repos\OsloBysykkelUpdates\OsloBysykkelUpdates\obj\Debug\netcoreapp2.1\OsloBysykkelUpdates.dll
+C:\Users\knut9\source\repos\OsloBysykkelUpdates\OsloBysykkelUpdates\obj\Debug\netcoreapp2.1\OsloBysykkelUpdates.pdb
